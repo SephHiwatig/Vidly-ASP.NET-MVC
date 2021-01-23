@@ -5,6 +5,30 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+@*
+       This is a comment on multiple lines 
+*@
+
+@{ 
+    var className = Model.Customers.Count > 0 ? "popular" : null; // will be used as the value for class attribute
+}
+
 <h2>@(((Movie)ViewData["movie"]).Name) Using ViewData</h2>
 <h2>@(((Movie)ViewBag.Movie).Name) using ViewBag</h2>
-<h2>@Model.Movie.Name using Model</h2>
+<h2 class="@className">@Model.Movie.Name using Model</h2> <!-- if className is null, the class attribute will be ignored -->
+
+@if (Model.Customers.Count == 0)
+{
+    <p>No one has rented this movie.</p>
+}
+else
+{
+    <ul>
+
+        @foreach (var customer in Model.Customers)
+        {
+            <li>@customer.Name</li>
+        }
+
+    </ul>
+}
