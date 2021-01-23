@@ -159,3 +159,4 @@ C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.csproj.Gener
 C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribeToCustomer.resources
 C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeModel.resources
 C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
