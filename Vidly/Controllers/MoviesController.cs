@@ -17,6 +17,10 @@ namespace Vidly.Controllers
                 Name = "Shrek!"
             };
 
+            // Not recommended to use ViewData and ViewBag
+            ViewData["movie"] = movie;
+            ViewBag.Movie = movie;
+
             return View(movie);
             //return Content("Hello World!");
             //return HttpNotFound();
