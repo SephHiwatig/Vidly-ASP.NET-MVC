@@ -149,3 +149,13 @@ C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.csproj.CoreC
 C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.dll
 C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\bin\EntityFramework.dll
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\bin\EntityFramework.xml
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.InitialCreate.resources
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribeToCustomer.resources
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddMembershipTypeModel.resources
+C:\Users\Joseph\Desktop\MVC\Vidly-ASP.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
