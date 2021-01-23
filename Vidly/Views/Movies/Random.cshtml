@@ -1,5 +1,5 @@
 ﻿@using Vidly.Models
-@model Vidly.Models.Movie
+@model Vidly.ViewModels.RandomMovieViewModel
 @{
     ViewBag.Title = "View";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -7,4 +7,4 @@
 
 <h2>@(((Movie)ViewData["movie"]).Name) Using ViewData</h2>
 <h2>@(((Movie)ViewBag.Movie).Name) using ViewBag</h2>
-<h2>@Model.Name using Model</h2>
+<h2>@Model.Movie.Name using Model</h2>
