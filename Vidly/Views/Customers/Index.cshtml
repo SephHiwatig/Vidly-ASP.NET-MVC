@@ -14,6 +14,9 @@
             @Html.DisplayNameFor(model => model.Name)
         </th>
         <th>
+            Subscription
+        </th>
+        <th>
             Discount Rate
         </th>
     </tr>
@@ -22,6 +25,9 @@
     <tr>
         <td>
             @Html.ActionLink(item.Name, "details", new { id=item.Id })
+        </td>
+        <td>
+            @item.MembershipType.Name
         </td>
         <td>
             @item.MembershipType.DiscountRate%
